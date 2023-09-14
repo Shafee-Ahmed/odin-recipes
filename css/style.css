@@ -1,0 +1,52 @@
+body {
+    background: #1a2b3a;
+}
+
+.header {
+    text-align: center;
+    font-family: sans-serif;
+    background: linear-gradient(to right, #f32170, #ff6b08,
+            #cf23cf, #eedd44);
+            -webkit-text-fill-color: transparent;
+            -webkit-background-clip: text;
+
+}
+
+.burgerHeader{
+    display: block;
+    text-align: center;
+    background: linear-gradient(to right, #f32170, #ff6b08,
+            #cf23cf, #eedd44);
+            -webkit-text-fill-color: transparent;
+            -webkit-background-clip: text;
+}
+
+.lasHeader{
+    display: block;
+    text-align: center;
+    background: linear-gradient(to right, #f32170, #ff6b08,
+            #cf23cf, #eedd44);
+            -webkit-text-fill-color: transparent;
+            -webkit-background-clip: text;
+}
+
+.nodHeader{
+    display: block;
+    text-align: center;
+    background: linear-gradient(to right, #f32170, #ff6b08,
+            #cf23cf, #eedd44);
+            -webkit-text-fill-color: transparent;
+            -webkit-background-clip: text;
+}
+.img {
+    height: 25%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.contianer {
+    width: 35%;
+    border: 1px solid #1a2b3a;
+
+}
