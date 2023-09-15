@@ -1,4 +1,4 @@
-body {
+/* body {
     background: #1a2b3a;
 }
 
@@ -7,37 +7,39 @@ body {
     font-family: sans-serif;
     background: linear-gradient(to right, #f32170, #ff6b08,
             #cf23cf, #eedd44);
-            -webkit-text-fill-color: transparent;
-            -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
 
 }
 
-.burgerHeader{
+.burgerHeader {
+    display: block;
+    text-align: center;
+    background: linear-gradient(to right, #f35894, #ff6b08,
+            #cf23cf, #eedd44);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
+
+.lasHeader {
     display: block;
     text-align: center;
     background: linear-gradient(to right, #f32170, #ff6b08,
             #cf23cf, #eedd44);
-            -webkit-text-fill-color: transparent;
-            -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
 }
 
-.lasHeader{
+.nodHeader {
     display: block;
     text-align: center;
     background: linear-gradient(to right, #f32170, #ff6b08,
             #cf23cf, #eedd44);
-            -webkit-text-fill-color: transparent;
-            -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
 }
 
-.nodHeader{
-    display: block;
-    text-align: center;
-    background: linear-gradient(to right, #f32170, #ff6b08,
-            #cf23cf, #eedd44);
-            -webkit-text-fill-color: transparent;
-            -webkit-background-clip: text;
-}
+
 .img {
     height: 25%;
     display: flex;
@@ -50,3 +52,40 @@ body {
     border: 1px solid #1a2b3a;
 
 }
+
+.Button_container {
+    width: 150px;
+    margin: 0%;
+    padding: 0%;
+    border-radius: 0%;
+
+}
+
+.btn1
+ {
+    height: 35px;
+    width: 119px;
+    border: revert;
+    margin: 8px;
+    padding: 0px;
+    background-color: initial;
+}
+.btn2
+ {
+    height: 35px;
+    width: 119px;
+    border: revert;
+    margin: 8px;
+    padding: 0px;
+    background-color: initial;
+   
+}
+.btn3
+ {
+    height: 35px;
+    width: 119px;
+    border:revert ;
+    margin: 8px;
+    padding:0px;
+    background-color: initial;
+} */
